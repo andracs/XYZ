@@ -1,0 +1,4 @@
+
+public enum ColorsENUM {
+    BLUE, GREEN, RED, YELLOW, PURPLE, PINK, WHITE, BLACK
+}
